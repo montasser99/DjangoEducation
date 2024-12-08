@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+media/courses/images/*
+
+media/gestionLangue/input_voice/*
+
+media/gestionLangue/output_voice/*
